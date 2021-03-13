@@ -11,16 +11,16 @@ let id = 2;
 let livros = [{
     id: 1,
     isbn: '978-8598078175',
-    titulo: 'A menina que roubava livros',
-    descricao: 'A trajetória de Liesel Meminger é contada por uma narradora mórbida, surpreendentemente simpática',
+    titulo: 'Programação em Python',
+    descricao: 'Ajudara estudantes a desenvolver habilidades em python',
     edicao: '1ª',
     autor: 'Markus Zusak'
   },
   {
     id: 2,
     isbn: '978-8551002933',
-    titulo: 'O Homem de Giz',
-    descricao: 'Em 1986, Eddie e os amigos passam a maior parte dos dias andando de bicicleta pela pacata vizinhança em busca de aventuras.',
+    titulo: 'Fury',
+    descricao: 'Conta uma história de guerreiros de um tanke durante a segunda guerra mundial',
     edicao: 'Capa Dura',
     autor: 'C. J. Tudor'
   }
